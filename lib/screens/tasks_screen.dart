@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../model/task_data.dart';
 import '../widgets/tasks_list.dart';
-import 'package:todo_flutter/screens/add_Task_screen.dart';
+import 'package:todo_flutter/screens/add_task_screen.dart';
 
 class TasksScreen extends StatelessWidget {
   const TasksScreen({Key? key}) : super(key: key);
@@ -27,7 +27,7 @@ class TasksScreen extends StatelessWidget {
               child: Container(
                 padding: EdgeInsets.only(
                     bottom: MediaQuery.of(context).viewInsets.bottom),
-                child: AddTaskScreen(),
+                child: const AddTaskScreen(),
               ),
             ),
           );
