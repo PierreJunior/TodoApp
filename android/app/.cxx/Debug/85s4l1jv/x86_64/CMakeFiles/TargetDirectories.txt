@@ -1,0 +1,2 @@
+/home/pierrejunior/StudioProjects/TodoApp/android/app/.cxx/Debug/85s4l1jv/x86_64/CMakeFiles/edit_cache.dir
+/home/pierrejunior/StudioProjects/TodoApp/android/app/.cxx/Debug/85s4l1jv/x86_64/CMakeFiles/rebuild_cache.dir

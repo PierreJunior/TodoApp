@@ -1,0 +1,1 @@
+/home/pierrejunior/StudioProjects/TodoApp/build/app/intermediates/cxx/RelWithDebInfo/3p1m4x6m/obj/armeabi-v7a

@@ -1,0 +1,2 @@
+/home/pierrejunior/StudioProjects/TodoApp/android/app/.cxx/RelWithDebInfo/3p1m4x6m/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/pierrejunior/StudioProjects/TodoApp/android/app/.cxx/RelWithDebInfo/3p1m4x6m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/home/pierrejunior/StudioProjects/TodoApp/android/app/.cxx/RelWithDebInfo/3p1m4x6m/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/pierrejunior/StudioProjects/TodoApp/android/app/.cxx/RelWithDebInfo/3p1m4x6m/arm64-v8a/CMakeFiles/rebuild_cache.dir

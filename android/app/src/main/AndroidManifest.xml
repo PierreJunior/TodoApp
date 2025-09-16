@@ -1,7 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.PierreKahozi.todoFLutter.todo_flutter">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
    <application
-        android:label="todo_flutter"
+        android:label="Sala"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -31,4 +30,5 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
